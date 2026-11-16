@@ -6,7 +6,7 @@ const Navbar = ({ activeSection, setActiveSection }) => {
       <div className="container">
         <a className="navbar-brand fw-bold" href="#" onClick={() => setActiveSection('home')}>
           <i className="bi bi-image-fill me-2 text-primary"></i>
-          WallCraft
+          AstraWallpaper
         </a>
         <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
           <span className="navbar-toggler-icon"></span>

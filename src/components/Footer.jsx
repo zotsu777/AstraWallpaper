@@ -8,7 +8,7 @@ const Footer = () => {
           <div className="col-md-6">
             <h5 className="fw-bold mb-2">
               <i className="bi bi-image-fill text-primary me-2"></i>
-              WallCraft
+              AstraWallpaper
             </h5>
             <p className="text-muted mb-0">Elevate your screen with premium wallpapers</p>
           </div>
@@ -19,7 +19,7 @@ const Footer = () => {
               <a href="#" className="text-muted text-decoration-none hover-primary">Contact</a>
             </div>
             <div className="mt-2">
-              <small className="text-muted">© 2025 WallCraft. All rights reserved.</small>
+              <small className="text-muted">© 2025 AstraWallpaper. All rights reserved.</small>
             </div>
           </div>
         </div>
