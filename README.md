@@ -1,4 +1,4 @@
-# Wallpaper Project
+# AstraWallpaper Project
 
 A modern, responsive wallpaper gallery application built with React and Bootstrap 5.
 
